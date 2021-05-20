@@ -50,6 +50,10 @@ The most common time to have multiple Xcode versions installed is right after WW
 
 When you install Xcode from the Mac App Store, it gets installed in your Applications folder with the name Xcode. To have multiple versions installed, rename the existing Xcode on your Mac before you install the new version of Xcode.
 
+## Can I install Xcode on an external drive?
+
+Xcode must be installed on your Mac’s startup disk. If you make an external drive the startup disk, you can install Xcode on an external drive. Use the System Preferences app (Choose Apple > System Preferences from the menu bar) to set the startup disk.
+
 ## I updated my iOS device. Now I can't debug on it. Why?
 
 Xcode does not support debugging on devices running a newer iOS version than the iOS SDK Xcode has. For example Xcode 12.1 includes the iOS 14.1 SDK. If you update your device to iOS 14.2, you won't be able to debug. It's annoying that a minor iOS update makes your device unusable on Xcode, but that's the way Xcode works.
