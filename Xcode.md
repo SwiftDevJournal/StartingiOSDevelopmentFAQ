@@ -22,6 +22,7 @@ The site [Xcode Releases](https://xcodereleases.com) has direct download links f
 
 The main reason to download an older version of Xcode is that your Mac is running an older version of macOS that cannot run the most recent version of Xcode.
 
+* Xcode 12.4 is the latest version for macOS 10.15.
 * Xcode 11.3.1 is the latest version for macOS 10.14.
 * Xcode 10.1 is the latest version for macOS 10.13.
 * Xcode 9.2 is the latest version for macOS 10.12.
