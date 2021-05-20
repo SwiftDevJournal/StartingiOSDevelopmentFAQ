@@ -1,4 +1,4 @@
-# iOS Developer FAQ
+# Starting iOS Development FAQ
 
 Welcome to the iOS developer FAQ. I see people who are new to iOS development asking the same questions repeatedly in forums. Some of these questions include the following:
 
