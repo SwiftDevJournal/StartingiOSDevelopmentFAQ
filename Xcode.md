@@ -42,6 +42,10 @@ The app [DevCleaner for Xcode](http://www.one-minute-games.com/portfolio/dev-cle
 
 If you still don't have enough free space and have an existing version of Xcode on your Mac, delete it. This will free up space, but it will make an App Store Xcode installation take longer because it will have to download the entire Xcode file instead of performing a delta update, where only the parts that need to be updated are downloaded.
 
+### Can I install Xcode on an external drive?
+
+Xcode must be installed on your Mac’s startup disk. If you make an external drive the startup disk, you can install Xcode on an external drive. Use the System Preferences app (Choose Apple > System Preferences from the menu bar) to set the startup disk.
+
 ## Can I have multiple versions of Xcode installed?
 
 Yes, you can have multiple versions of Xcode installed on your Mac. 
@@ -49,10 +53,6 @@ Yes, you can have multiple versions of Xcode installed on your Mac.
 The most common time to have multiple Xcode versions installed is right after WWDC when Apple releases a beta version of the new version of Xcode. Install the beta alongside your existing Xcode installation to try the beta.
 
 When you install Xcode from the Mac App Store, it gets installed in your Applications folder with the name Xcode. To have multiple versions installed, rename the existing Xcode on your Mac before you install the new version of Xcode.
-
-## Can I install Xcode on an external drive?
-
-Xcode must be installed on your Mac’s startup disk. If you make an external drive the startup disk, you can install Xcode on an external drive. Use the System Preferences app (Choose Apple > System Preferences from the menu bar) to set the startup disk.
 
 ## I updated my iOS device. Now I can't debug on it. Why?
 
