@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# iOS Developer FAQ
 
-You can use the [editor on GitHub](https://github.com/SwiftDevJournal/StartingiOSDevelopmentFAQ/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the iOS developer FAQ. I see people who are new to iOS development asking the same questions repeatedly in forums. Some of these questions include the following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Do I need a Mac?
+* What Mac should I get?
+* Does Xcode run on iPads?
+* Should I learn SwiftUI or UIKit?
+* Where do I learn iOS development?
 
-### Markdown
+I am gathering and organizing answers to these frequently asked questions here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Table of Contents
 
-```markdown
-Syntax highlighted code block
+* [Apple hardware questions](AppleHardware)
+* [Apple developer membership questions](AppleDeveloperMembership)
+* [Xcode questions](Xcode)
+* [Learning questions](Learning)
+* [Learning resources](LearningResources)
 
-# Header 1
-## Header 2
-### Header 3
+## Contributing to the FAQ
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SwiftDevJournal/StartingiOSDevelopmentFAQ/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Currently the best way to contribute to this FAQ is to share it when someone asks a question on a forum or Slack room that has an answer here.
