@@ -14,8 +14,6 @@ No. You can install the [Swift Playgrounds app](https://apps.apple.com/us/app/sw
 
 Yes. Apple has a [Downloads and Resources page](https://developer.apple.com/xcode/resources/) where you can download Xcode.
 
-The site [Xcode Releases](https://xcodereleases.com) has direct download links for every version of Xcode Apple has ever released.
-
 ## Where can I download older versions of Xcode?
 
 The site [Xcode Releases](https://xcodereleases.com) has direct download links for every version of Xcode Apple has ever released.
