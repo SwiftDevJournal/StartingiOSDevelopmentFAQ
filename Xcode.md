@@ -4,11 +4,13 @@ This page contains frequently asked questions about Xcode.
 
 ## Does Xcode run on Windows?
 
-No. Xcode runs only macOS.
+No. Xcode runs only on macOS.
 
 ## Does Xcode run on iPads?
 
-No. You can install the [Swift Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id908519492) on an iPad. You can use the Swift Playgrounds app to learn Swift, but you can't develop iOS apps with it.
+No. You can install the [Swift Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id908519492) on an iPad. You can use the Swift Playgrounds app to learn Swift.
+
+At WWDC 2021 Apple announced a new version of Swift Playgrounds that lets you develop iOS apps on an iPad.
 
 ## Can I download Xcode without using the Mac App Store?
 
