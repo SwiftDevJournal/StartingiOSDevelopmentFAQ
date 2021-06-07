@@ -10,7 +10,7 @@ No. Xcode runs only on macOS.
 
 No. You can install the [Swift Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id908519492) on an iPad. You can use the Swift Playgrounds app to learn Swift.
 
-At WWDC 2021 Apple announced a new version of Swift Playgrounds that lets you develop iOS apps on an iPad.
+If your iPad is running iPadOS 15 (iOS 15) or later, you can use the Swift Playgrounds app to develop iOS apps on an iPad.
 
 ## Can I download Xcode without using the Mac App Store?
 
