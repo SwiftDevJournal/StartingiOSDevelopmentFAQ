@@ -10,7 +10,11 @@ I recommend getting at least one iOS device to see how your app looks and runs o
 
 ## Do I need a Mac to develop iOS apps?
 
-It is possible to develop iOS apps without a Mac. For example the Unity game engine lets you develop an iOS game on a Windows computer. But you need access to a Mac to submit your app to Apple.
+Short answer: No, but development is more painful without a Mac.
+
+If you have an iPad is running iPadOS 15 (iOS 15) or later, you can use the [Swift Playgrounds app](https://apps.apple.com/us/app/swift-playgrounds/id908519492) to develop iOS apps on an iPad.
+
+It is possible to develop iOS apps on a Windows computer. For example the Unity game engine lets you develop an iOS game on a Windows computer. But you need access to a Mac to submit your app to Apple.
 
 If you do not have access to a Mac, there are sites that provide Mac cloud hosting, allowing you to rent access to a Mac without having to buy a Mac. Some examples of Mac cloud hosts include the following:
 
