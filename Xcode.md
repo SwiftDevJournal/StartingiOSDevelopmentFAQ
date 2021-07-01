@@ -61,3 +61,5 @@ Xcode does not support debugging on devices running a newer iOS version than the
 To restore debugging update to the latest version, which may be a beta version.
 
 A better long term strategy is to turn off automatic updates on your iOS device. Turning off the automatic updates will keep you from having to constantly install Xcode every time Apple releases a minor update to iOS.
+
+Another workaround is to [download iOS support files for the newer iOS version](https://github.com/Yatko/iOS-device-support-files) and copy them to your Xcode app bundle.
