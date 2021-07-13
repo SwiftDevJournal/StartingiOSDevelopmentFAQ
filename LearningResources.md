@@ -13,6 +13,7 @@ If you search iBooks for Apple Education, you’ll also find books on learning t
 
 ## Courses
 
+* [Apple's Develop Apps for iOS course](https://developer.apple.com/tutorials/app-dev-training/)
 * [Hacking with Swift](https://www.hackingwithswift.com/) has two free 100 day courses for learning iOS development: one for SwiftUI and one for UIKit.
 * [Stanford's CS193P course](https://cs193p.sites.stanford.edu)
 * [Angela Yu's Udemy course](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
