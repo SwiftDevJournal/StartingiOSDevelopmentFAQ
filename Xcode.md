@@ -63,3 +63,7 @@ To restore debugging update to the latest version, which may be a beta version.
 A better long term strategy is to turn off automatic updates on your iOS device. Turning off the automatic updates will keep you from having to constantly install Xcode every time Apple releases a minor update to iOS.
 
 Another workaround is to [download iOS support files for the newer iOS version](https://github.com/Yatko/iOS-device-support-files) and copy them to your Xcode app bundle.
+
+Another workaround is to deselect the Debug executable checkbox in the Run step of the scheme. After the app launches, attach it to the debugger. The following article provides details and screenshots:
+
+[Debugging on iOS 15 with Xcode 12](https://hybridcattt.com/blog/debugging-on-latest-ios-with-older-xcode)
